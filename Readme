@@ -1,0 +1,13 @@
+# WiFiLoki
+
+WiFiLoki is a Python-based tool designed to extract Wi-Fi passwords from a Windows machine, encrypt the extracted data, and securely transmit it to a remote server for analysis.
+
+## Features
+- Extracts Wi-Fi passwords using the `netsh` command.
+- Encrypts data using AES encryption.
+- Transmits encrypted data to a remote server.
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/WiFiLoki.git
